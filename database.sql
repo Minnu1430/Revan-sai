@@ -1,0 +1,11 @@
+-- =============================================================
+-- DEPRECATED DATABASE SQL SCRIPT
+-- =============================================================
+-- The Smart Classified AI platform now runs fully self-contained
+-- on a local JSON file-based database (backend/data/database.json).
+-- 
+-- MySQL IS NO LONGER REQUIRED.
+-- You do not need to install MySQL, run this SQL script, or configure connection parameters.
+-- 
+-- Added: ad_records_log.txt logs all entry additions with timestamps.
+-- =============================================================
